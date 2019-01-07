@@ -1,0 +1,173 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.5503144654,0.5062893082)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0260511687)
+		handle after: (0.0000000000,-0.0260511687)
+	point:
+		position: (0.5293501048,0.4591194969)
+		lock: size
+		line after: curve
+		handle before: (0.0115782972,0.0000000000)
+		handle after: (-0.0115782972,0.0000000000)
+	point:
+		position: (0.5083857442,0.5062893082)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0260511687)
+		handle after: (0.0000000000,0.0260511687)
+	point:
+		position: (0.5293501048,0.5534591195)
+		lock: size
+		line after: curve
+		handle before: (-0.0115782972,0.0000000000)
+		handle after: (0.0115782972,0.0000000000)
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.6132075472,0.5041928721)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0237355093)
+		handle after: (0.0000000000,-0.0237355093)
+	point:
+		position: (0.5251572327,0.4612159329)
+		lock: size
+		line after: curve
+		handle before: (0.0486288483,0.0000000000)
+		handle after: (-0.0486288483,0.0000000000)
+	point:
+		position: (0.4371069182,0.5041928721)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0237355093)
+		handle after: (0.0000000000,0.0237355093)
+	point:
+		position: (0.5251572327,0.5471698113)
+		lock: size
+		line after: curve
+		handle before: (-0.0486288483,0.0000000000)
+		handle after: (0.0486288483,0.0000000000)
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5241090147,0.2054507338)
+		lock: free
+		line after: line
+	point:
+		position: (0.5704664930,0.3846925464)
+		lock: free
+		line after: line
+	point:
+		position: (0.7309043941,0.2904941526)
+		lock: free
+		line after: line
+	point:
+		position: (0.6360258675,0.4497819612)
+		lock: free
+		line after: line
+	point:
+		position: (0.8165618449,0.4958071279)
+		lock: free
+		line after: line
+	point:
+		position: (0.6360258675,0.5418322945)
+		lock: free
+		line after: line
+	point:
+		position: (0.7309043941,0.7011201031)
+		lock: free
+		line after: line
+	point:
+		position: (0.5704664930,0.6069217094)
+		lock: free
+		line after: line
+	point:
+		position: (0.5241090147,0.7861635220)
+		lock: free
+		line after: line
+	point:
+		position: (0.4777515364,0.6069217094)
+		lock: free
+		line after: line
+	point:
+		position: (0.3173136353,0.7011201031)
+		lock: free
+		line after: line
+	point:
+		position: (0.4121921618,0.5418322945)
+		lock: free
+		line after: line
+	point:
+		position: (0.2316561845,0.4958071279)
+		lock: free
+		line after: line
+	point:
+		position: (0.4121921618,0.4497819612)
+		lock: free
+		line after: line
+	point:
+		position: (0.3173136353,0.2904941526)
+		lock: free
+		line after: line
+	point:
+		position: (0.4777515364,0.3846925464)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Ellipse
+	combine: overlap
+	point:
+		position: (0.7536687631,0.4958071279)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.1140462276)
+		handle after: (0.0000000000,-0.1140462276)
+	point:
+		position: (0.5241090147,0.2893081761)
+		lock: size
+		line after: curve
+		handle before: (0.1267823545,0.0000000000)
+		handle after: (-0.1267823545,0.0000000000)
+	point:
+		position: (0.2945492662,0.4958071279)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.1140462276)
+		handle after: (0.0000000000,0.1140462276)
+	point:
+		position: (0.5241090147,0.7023060797)
+		lock: size
+		line after: curve
+		handle before: (-0.1267823545,0.0000000000)
+		handle after: (0.1267823545,0.0000000000)
+part:
+	type: shape
+	name: Square
+	combine: overlap
+	point:
+		position: (0.2146750524,0.2020964361)
+		lock: free
+		line after: line
+	point:
+		position: (0.2146750524,0.8020964361)
+		lock: free
+		line after: line
+	point:
+		position: (0.8146750524,0.8020964361)
+		lock: free
+		line after: line
+	point:
+		position: (0.8146750524,0.2020964361)
+		lock: free
+		line after: line

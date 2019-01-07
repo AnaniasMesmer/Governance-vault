@@ -1,0 +1,85 @@
+﻿mse version: 0.3.5
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5099254730,0.7508840501)
+		lock: free
+		line after: line
+	point:
+		position: (0.8212788263,0.2047384484)
+		lock: free
+		line after: line
+	point:
+		position: (0.2004464051,0.2036741861)
+		lock: free
+		line after: line
+	point:
+		position: (0.5099254730,0.7508840501)
+		lock: free
+		line after: line
+	point:
+		position: (0.8212788263,0.2047384484)
+		lock: free
+		line after: line
+	point:
+		position: (0.2004464051,0.2036741861)
+		lock: free
+		line after: line
+part:
+	type: shape
+	name: Ellipse
+	combine: merge
+	point:
+		position: (0.8395833333,0.4468750000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,0.0742132669)
+		handle after: (0.0000000000,-0.0742132669)
+	point:
+		position: (0.5145833333,0.3125000000)
+		lock: size
+		line after: curve
+		handle before: (0.1794925526,0.0000000000)
+		handle after: (-0.1794925526,0.0000000000)
+	point:
+		position: (0.1895833333,0.4468750000)
+		lock: size
+		line after: curve
+		handle before: (0.0000000000,-0.0742132669)
+		handle after: (0.0000000000,0.0742132669)
+	point:
+		position: (0.5145833333,0.5812500000)
+		lock: size
+		line after: curve
+		handle before: (-0.1794925526,0.0000000000)
+		handle after: (0.1794925526,0.0000000000)
+part:
+	type: shape
+	name: Star
+	combine: overlap
+	point:
+		position: (0.5166666667,0.2166666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.2041666667,0.7543241048)
+		lock: free
+		line after: line
+	point:
+		position: (0.8291666667,0.7543241048)
+		lock: free
+		line after: line
+	point:
+		position: (0.5166666667,0.2166666667)
+		lock: free
+		line after: line
+	point:
+		position: (0.2041666667,0.7543241048)
+		lock: free
+		line after: line
+	point:
+		position: (0.8291666667,0.7543241048)
+		lock: free
+		line after: line
